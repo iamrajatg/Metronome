@@ -1,7 +1,10 @@
 ![Metronome gif](./assets/images/metronome.gif)
 <br />
-After struggling to use Metronomes as I am unable to hear if I land exactly on the beat, I decided to create a visual metronome.
+```
+A metronome, from ancient Greek μέτρον and νέμω, is a device that produces an audible click or other sound at a regular interval that can be set by the user, typically in beats per minute. Musicians use the device to practice playing to a regular pulse.
+```
+This is a simple Metronome Implementation in Javascript.
 
 Feel free to contribute. Create a Pull Request.
 
-Metronome is available by [Clicking Here](https://netstorm84.github.io/Metronome/)
+
